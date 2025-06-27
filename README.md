@@ -18,6 +18,16 @@ It now also supports **ICI resistance prediction** and **senescence score visual
 - Shiny app and programmatic usage both supported.
 
 ---
+## 📦 Dependencies
+
+SenScoreR depends on the following R packages:
+
+- **ggplot2** – for visualization
+- **tidymodels** – for ICI resistance modeling and prediction
+
+These packages will be automatically loaded, but make sure they are installed on your system.
+
+---
 
 ## 📦 Installation
 
