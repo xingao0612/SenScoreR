@@ -80,7 +80,7 @@ head(result)
 
 - Expression matrix: numeric matrix (genes × samples).
 - Row names must be **HGNC gene symbols** (e.g., "TP53").
-- TPM or log-normalized counts recommended.
+- TPM/FPKM or log-normalized counts recommended.
 
 ---
 
