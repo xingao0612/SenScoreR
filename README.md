@@ -1,5 +1,5 @@
 # SenScoreR
-![](https://img.shields.io/badge/source%20code-support-blue) ![](https://img.shields.io/badge/R-package-green) ![](https://img.shields.io/badge/Version-0.1.1-yellow)<br>
+![](https://img.shields.io/badge/source%20code-support-blue) ![](https://img.shields.io/badge/R-package-green) ![](https://img.shields.io/badge/Version-0.1.2-yellow)<br>
 **SenScoreR** is an R package for computing **senescence scores** from transcriptomic data using a curated set of Cellular Senescence-related genes.  
 It now also supports **ICI resistance prediction** and **senescence score visualization**.
 
