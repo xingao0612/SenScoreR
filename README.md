@@ -3,10 +3,6 @@
 **SenScoreR** is an R package for computing **senescence scores** from transcriptomic data using a curated set of Cellular Senescence-related genes.  
 It now also supports **ICI resistance prediction** and **senescence score visualization**.
 
-> 🔬 Developed by **Xin Gao**, Department of Clinical Laboratory, Xiangya Hospital of Central South University  
-> 📧 Contact: gaoxin_0612@163.com  
-> 🌐 GitHub: https://github.com/xingao0612/SenScoreR  
-
 ---
 
 ## 🚀 Features
@@ -102,10 +98,7 @@ head(result)
 ---
 
 ## 📚 Citation & Acknowledgement
-
-If you use this package in a publication, please cite:
-
-> Gao, X. (2025). *SenScoreR: A Senescence Scoring Tool for Transcriptomic Analysis*. GitHub repository: https://github.com/xingao0612/SenScoreR
+NA.
 
 ---
 
