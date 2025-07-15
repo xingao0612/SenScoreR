@@ -9,8 +9,6 @@
     "🎉 Welcome to SenScoreR! 🎉\n",
     "This package calculates the senescence score (RSS) from gene expression data.\n",
     "Designed to explore cellular senescence-related transcriptional patterns.\n",
-    "Author: Xin Gao (gaoxin_0612@163.com)\n",
-    "🌐 GitHub: https://github.com/xingao0612/SenScoreR\n",
     "Version: ", packageVersion(pkgname), "\n\n",
     "📌 Quick Start Examples:\n",
     "    📈 Calculate RSS:\n",
